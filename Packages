@@ -1,18 +1,19 @@
 
-Package:
-Version:
+Package: com.exile90.icleanerpro
+Version:  7.8.3
 Architecture: iPhone-arm
-Maintainer:
-Depends:
-Conflicts:
-Filename:
-Size:
-MD5sum:
-SHA1:
-SHA256:
+Maintainer: vvtwz
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Filename: deb/iCleanerPro_7.8.3.deb
+Size: 6468796
+MD5sum: 066dd8cd88f869605942ab7f6019c56f
+SHA1: 6dcfe8105eaf708bb983b2db73c90e91b4f48b4f
+SHA256: 91d9e941d47a2b6d89e1db7edba28aa7e0b1ecfa7127d1ebfa6c03fff0136314
 Section: Tweaks
-Depiction:
-Name:
+Depiction: https://vvtwz.github.io/repo
+Name: iCleaner Pro
+
 
 Package: com.cokepokes.appstoreplusplus
 Version: 0.9.13-2
